@@ -1,0 +1,18 @@
+{
+  "name": "nock-axios-agent-issue",
+  "version": "1.0.0",
+  "description": "Reproduces an issue with nock@14 and Axios with a custom agent",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "David DOLCIMASCOLO <david.dolcimascolo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "1.7.9"
+  },
+  "devDependencies": {
+    "nock": "14.0.0"
+  }
+}
