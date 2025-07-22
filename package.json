@@ -10,9 +10,9 @@
   "author": "David DOLCIMASCOLO <david.dolcimascolo@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "1.7.9"
+    "axios": "1.10.0"
   },
   "devDependencies": {
-    "nock": "14.0.0"
+    "nock": "14.0.6"
   }
 }
